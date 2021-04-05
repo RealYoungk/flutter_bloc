@@ -33,4 +33,5 @@ main => app => ui
 - 네이티브 메서드 채널이 뭔지 찾아 봐야겠다.
 - 찾아본 결과 네이티브 API 인듯 하다.
 
-![image](https://user-images.githubusercontent.com/44742847/113564337-2ead8b80-9644-11eb-9e66-0a031d3ba83b.png)
+    
+<img src=![image](https://user-images.githubusercontent.com/44742847/113564337-2ead8b80-9644-11eb-9e66-0a031d3ba83b.png) width=200 height=400>
