@@ -32,3 +32,5 @@ main => app => ui
 - 데이터를 처리하는 blocs와 resources를 분리하는 이유가 궁금하였었는데 로컬DB나 네이티브 메서드 채널(?)을 이용해서 제공받을때도 있기땓문에 Bloc에게 Model을 제공하는 부분을 분리하는게 좋다. 라는 답변을 받았습니다.
 - 네이티브 메서드 채널이 뭔지 찾아 봐야겠다.
 - 찾아본 결과 네이티브 API 인듯 하다.
+
+![image](https://user-images.githubusercontent.com/44742847/113564337-2ead8b80-9644-11eb-9e66-0a031d3ba83b.png)
